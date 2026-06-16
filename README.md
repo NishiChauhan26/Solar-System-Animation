@@ -2,6 +2,10 @@
 
 A simple animated Solar System built using HTML and CSS.
 
+## Screenshot
+
+![Solar System Animation](screenshot.png)
+
 ## Features
 
 - Animated planetary orbits
